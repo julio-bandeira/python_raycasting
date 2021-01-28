@@ -1,2 +1,11 @@
 # python_raycasting
-Desenvolvimento de uma Raycasting engine em Python 3.
+Projeto que visa desenvolver uma Raycasting engine em Python 3.
+
+## Bibliotecas
+
+As bibliotecas utilizadas são:
+* Nativas
+    * math
+    * ctypes
+* Externas
+    * pygame
